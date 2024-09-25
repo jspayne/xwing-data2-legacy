@@ -94,7 +94,7 @@ def process_json_files_in_directory(
 
             # Write the updated data back to the file
             with file_path.open("w", encoding="utf-8") as json_file:
-                json.dump(data, json_file, indent=4)
+                json.dump(data, json_file, ensure_ascii=False, indent=2)
             print(f"Updated {file_path}")
 
         except (IOError, json.JSONDecodeError) as e:
