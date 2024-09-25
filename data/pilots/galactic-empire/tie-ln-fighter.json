@@ -579,7 +579,7 @@
       "caption": "Battle of Yavin",
       "initiative": 5,
       "limited": 1,
-      "cost": 32,
+      "cost": 33,
       "xws": "maulermithel-battleofyavin-lsl",
       "ability": "While you perform a primary attack, if a friendly Darth Vader or “Backstabber” is in your [Left Arc] or [Right Arc] at range 0-1, roll 1 additional attack die.",
       "image": "https://raw.githubusercontent.com/SogeMoge/x-wing2.0-project-goldenrod/2.0-legacy/src/images/En/pilots/maulermithel-battleofyavin-lsl.png",
@@ -654,7 +654,7 @@
       "caption": "Battle of Yavin",
       "initiative": 1,
       "limited": 1,
-      "cost": 30,
+      "cost": 31,
       "xws": "wampa-battleofyavin-lsl",
       "ability": "While you perform an attack, you may spend 1 [Charge] to roll 1 additional attack die. After defending, lose 1 [Charge].",
       "charges": {

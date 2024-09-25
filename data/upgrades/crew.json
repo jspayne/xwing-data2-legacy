@@ -2903,7 +2903,7 @@
       }
     ],
     "cost": {
-      "value": 4
+      "value": 3
     },
     "restrictions": [
       {
@@ -3287,7 +3287,7 @@
       }
     ],
     "cost": {
-      "value": 9
+      "value": 8
     },
     "restrictions": [
       {
@@ -3453,7 +3453,7 @@
       }
     ],
     "cost": {
-      "value": 7
+      "value": 5
     },
     "restrictions": [
       {
@@ -3487,7 +3487,7 @@
       }
     ],
     "cost": {
-      "value": 9
+      "value": 7
     },
     "restrictions": [
       {
@@ -3520,7 +3520,7 @@
       }
     ],
     "cost": {
-      "value": 8
+      "value": 6
     },
     "restrictions": [
       {
@@ -3655,7 +3655,7 @@
       }
     ],
     "cost": {
-      "value": 9
+      "value": 7
     },
     "restrictions": [
       {

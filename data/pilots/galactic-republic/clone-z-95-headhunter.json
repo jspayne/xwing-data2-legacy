@@ -89,7 +89,7 @@
       "caption": "CT-1020",
       "initiative": 3,
       "limited": 1,
-      "cost": 31,
+      "cost": 30,
       "xws": "drift",
       "ability": "While a friendly ship at range 0-1 performs an attack, if you have exactly 1 non-lock red token or exactly 1 orange token, that ship may reroll 1 attack die.",
       "shipAbility": {
@@ -141,7 +141,7 @@
       "caption": "Scrappy Flier",
       "initiative": 3,
       "limited": 1,
-      "cost": 31,
+      "cost": 30,
       "xws": "stub",
       "ability": "While you defend, if the speed of your revealed maneuver is even, roll 1 additional defende die. While you perform a primary attack, if the speed of your revealed maneuver is odd, roll 1 additional attack die.",
       "shipAbility": {
@@ -270,7 +270,7 @@
       "caption": "Evasive Aviator",
       "initiative": 4,
       "limited": 1,
-      "cost": 27,
+      "cost": 26,
       "xws": "slider",
       "ability": "When you reveal a [2 [Bank Left]] or [2 [Bank Right]] maneuver, you may spend 2 [Charge] to execute it as a sideslip.",
       "charges": {

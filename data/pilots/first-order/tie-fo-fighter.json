@@ -204,7 +204,7 @@
       "caption": "Epsilon Leader",
       "initiative": 2,
       "limited": 1,
-      "cost": 30,
+      "cost": 29,
       "xws": "muse",
       "ability": "At the start of the Engagement Phase, you may choose a friendly ship at range 0-1. If you do, that ship removes 1 stress token.",
       "image": "https://raw.githubusercontent.com/SogeMoge/x-wing2.0-project-goldenrod/2.0-legacy/src/images/En/pilots/muse.png",
@@ -373,7 +373,7 @@
       "caption": "Impetuous Mechanic",
       "initiative": 3,
       "limited": 1,
-      "cost": 33,
+      "cost": 32,
       "xws": "lingaava",
       "ability": "Setup: After placing forces, assign the Primed for Speed condition to yourself and up to 2 other friendly TIE/fo or TIE/sf Fighters that have no equipped [Modification] upgrades.",
       "conditions": [

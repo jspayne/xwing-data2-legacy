@@ -208,7 +208,7 @@
       "variable": "size",
       "values": {
         "Small": 2,
-        "Medium": 3,
+        "Medium": 2,
         "Large": 4
       }
     },

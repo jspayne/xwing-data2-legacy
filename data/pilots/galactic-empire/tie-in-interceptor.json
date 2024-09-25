@@ -116,7 +116,7 @@
       "caption": "Ace of Legend",
       "initiative": 6,
       "limited": 1,
-      "cost": 57,
+      "cost": 56,
       "xws": "soontirfel",
       "ability": "At the start of the Engagement Phase, if there is an enemy ship in your [Bullseye Arc], gain 1 focus token.",
       "image": "https://raw.githubusercontent.com/SogeMoge/x-wing2.0-project-goldenrod/2.0-legacy/src/images/En/pilots/soontirfel.png",
@@ -955,7 +955,7 @@
         "value": 2,
         "recovers": 0
       },
-      "cost": 48,
+      "cost": 49,
       "slots": [
         "Talent",
         "Modification",

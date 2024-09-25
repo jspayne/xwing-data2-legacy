@@ -126,7 +126,7 @@
       "ability": "Setup: You can be placed anywhere in the play area beyond range 3 of enemy ships.",
       "image": "https://raw.githubusercontent.com/SogeMoge/x-wing2.0-project-goldenrod/2.0-legacy/src/images/En/pilots/hansolo-scavengedyt1300.png",
       "artwork": "https://raw.githubusercontent.com/SogeMoge/x-wing2.0-project-goldenrod/2.0-legacy/src/images/Art/pilots/hansolo-scavengedyt1300.png",
-      "cost": 62,
+      "cost": 60,
       "slots": [
         "Talent",
         "Missile",
