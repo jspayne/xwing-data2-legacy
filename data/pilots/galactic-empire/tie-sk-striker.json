@@ -166,7 +166,7 @@
       "name": "Planetary Sentinel",
       "initiative": 1,
       "limited": 0,
-      "cost": 31,
+      "cost": 32,
       "xws": "planetarysentinel",
       "text": "To protect its many military installations, the Empire requires a swift and vigilant defense force.",
       "image": "https://raw.githubusercontent.com/SogeMoge/x-wing2.0-project-goldenrod/2.0-legacy/src/images/En/pilots/planetarysentinel.png",

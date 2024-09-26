@@ -148,7 +148,7 @@
       ],
       "standard": true,
       "wildspace": true,
-      "cost": 35,
+      "cost": 34,
       "slots": [
         "Modification",
         "Title",

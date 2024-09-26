@@ -84,7 +84,7 @@
       "caption": "Noisy Nuisance",
       "initiative": 3,
       "limited": 1,
-      "cost": 31,
+      "cost": 28,
       "xws": "captainseevor",
       "ability": "While you defend or perform an attack, before attack dice are rolled, if you are not in the enemy ship's [Bullseye Arc], you may spend 1 [Charge]. If you do, the enemy ship gains 1 jam token.",
       "image": "https://raw.githubusercontent.com/SogeMoge/x-wing2.0-project-goldenrod/2.0-legacy/src/images/En/pilots/captainseevor.png",

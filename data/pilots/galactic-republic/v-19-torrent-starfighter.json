@@ -118,7 +118,7 @@
       "image": "https://raw.githubusercontent.com/SogeMoge/x-wing2.0-project-goldenrod/2.0-legacy/src/images/En/pilots/swoop.png",
       "standard": true,
       "wildspace": true,
-      "cost": 27,
+      "cost": 26,
       "slots": [
         "Missile",
         "Modification"
@@ -161,7 +161,7 @@
       "image": "https://raw.githubusercontent.com/SogeMoge/x-wing2.0-project-goldenrod/2.0-legacy/src/images/En/pilots/tucker.png",
       "standard": true,
       "wildspace": true,
-      "cost": 26,
+      "cost": 25,
       "slots": [
         "Missile",
         "Modification"

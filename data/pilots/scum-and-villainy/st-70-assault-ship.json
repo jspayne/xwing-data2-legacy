@@ -72,7 +72,7 @@
       "caption": "Din Djarin",
       "initiative": 5,
       "limited": 1,
-      "cost": 50,
+      "cost": 49,
       "xws": "themandalorian",
       "slots": [
         "Talent",
@@ -100,7 +100,7 @@
       "caption": "Zero",
       "initiative": 5,
       "limited": 1,
-      "cost": 51,
+      "cost": 50,
       "xws": "q90",
       "slots": [
         "Talent",
@@ -145,7 +145,7 @@
       "caption": "Blaster for Hire",
       "initiative": 3,
       "limited": 2,
-      "cost": 47,
+      "cost": 46,
       "xws": "guildbountyhunter",
       "slots": [
         "Crew",
@@ -170,7 +170,7 @@
       "name": "Outer Rim Enforcer",
       "initiative": 2,
       "limited": 0,
-      "cost": 46,
+      "cost": 45,
       "xws": "outerrimenforcer",
       "slots": [
         "Crew",

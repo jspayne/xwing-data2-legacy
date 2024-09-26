@@ -138,7 +138,7 @@
       },
       "standard": true,
       "wildspace": true,
-      "cost": 32,
+      "cost": 31,
       "slots": [
         "Tech",
         "Turret",

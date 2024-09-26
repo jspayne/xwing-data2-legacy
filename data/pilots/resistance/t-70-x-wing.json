@@ -534,7 +534,7 @@
       "initiative": 4,
       "limited": 1,
       "xws": "venisadoza",
-      "cost": 46,
+      "cost": 48,
       "ability": "While you perform a [Torpedo] or [Missile] attack, you may treat the [Front Arc] requirement as [Rear Arc] for that attack. If you do, treat the range requirement as 1-2.",
       "shipAbility": {
         "name": "Weapon Hardpoint",
