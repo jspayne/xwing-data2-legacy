@@ -3874,7 +3874,7 @@
         "device": {
           "name": "Clan Wren Commandos",
           "type": "Remote",
-          "image": "https://infinitearenas.com/xw2/images/remotes/clanwrencommandos.png",
+          "image": "https://raw.githubusercontent.com/SogeMoge/x-wing2.0-project-goldenrod/2.0-legacy/src/images/En/remotes/clanwrencommandos-a.png",
           "effect": "After an enemy ship overlaps you, it gains 1 strain token. Activation Phase: At the start of this phase, you may relocate forward using a [1 [Turn Left]], [2 [Straight]] or [1 [Turn Right]] template. Engagement Phase: You cannot attack if there are enemy ships at range 0. To perform an attack, you must spend 1 [Charge]. While you perform an attack, you may change 1 [Focus] result to a [Hit] result.",
           "initiative": 2,
           "charges": {
@@ -3945,7 +3945,7 @@
         "device": {
           "name": "Imperial Super Commandos",
           "type": "Remote",
-          "image": "https://infinitearenas.com/xw2/images/remotes/imperialsupercommandos.png",
+          "image": "https://raw.githubusercontent.com/SogeMoge/x-wing2.0-project-goldenrod/2.0-legacy/src/images/En/remotes/imperialsupercommandos-a.png",
           "effect": "After an enemy ship overlaps you, it gains 1 strain token. Activation Phase: At the start of this phase, you may relocate forward using a [1 [Turn Left]], [2 [Straight]] or [1 [Turn Right]] template. Engagement Phase: You cannot attack if there are enemy ships at range 0. To perform an attack, you must spend 1 [Charge]. While you perform an attack, you may change 1 [Focus] result to a [Hit] result.",
           "initiative": 2,
           "charges": {
@@ -4016,7 +4016,7 @@
         "device": {
           "name": "Mandalorian Super Commandos",
           "type": "Remote",
-          "image": "https://infinitearenas.com/xw2/images/remotes/mandaloriansupercommandos.png",
+          "image": "https://raw.githubusercontent.com/SogeMoge/x-wing2.0-project-goldenrod/2.0-legacy/src/images/En/remotes/mandaloriansupercommandos-a.png",
           "effect": "After an enemy ship overlaps you, it gains 1 strain token. Activation Phase: At the start of this phase, you may relocate forward using a [1 [Turn Left]], [2 [Straight]] or [1 [Turn Right]] template. Engagement Phase: You cannot attack if there are enemy ships at range 0. To perform an attack, you must spend 1 [Charge]. While you perform an attack, you may change 1 [Focus] result to a [Hit] result.",
           "initiative": 2,
           "charges": {
@@ -4087,7 +4087,7 @@
         "device": {
           "name": "Nite Owl Commandos",
           "type": "Remote",
-          "image": "https://infinitearenas.com/xw2/images/remotes/niteowlcommandos.png",
+          "image": "https://raw.githubusercontent.com/SogeMoge/x-wing2.0-project-goldenrod/2.0-legacy/src/images/En/remotes/niteowlcommandos-a.png",
           "effect": "After an enemy ship overlaps you, it gains 1 strain token. Activation Phase: At the start of this phase, you may relocate forward using a [1 [Turn Left]], [2 [Straight]] or [1 [Turn Right]] template. Engagement Phase: You cannot attack if there are enemy ships at range 0. To perform an attack, you must spend 1 [Charge]. While you perform an attack, you may change 1 [Focus] result to a [Hit] result.",
           "initiative": 2,
           "charges": {
@@ -4158,7 +4158,7 @@
         "device": {
           "name": "Death Watch Commandos",
           "type": "Remote",
-          "image": "https://infinitearenas.com/xw2/images/remotes/deathwatchcommandos.png",
+          "image": "https://raw.githubusercontent.com/SogeMoge/x-wing2.0-project-goldenrod/2.0-legacy/src/images/En/remotes/deathwatchcommandos-a.png",
           "effect": "After an enemy ship overlaps you, it gains 1 strain token. Activation Phase: At the start of this phase, you may relocate forward using a [1 [Turn Left]], [2 [Straight]] or [1 [Turn Right]] template. Engagement Phase: You cannot attack if there are enemy ships at range 0. To perform an attack, you must spend 1 [Charge]. While you perform an attack, you may change 1 [Focus] result to a [Hit] result.",
           "initiative": 2,
           "charges": {

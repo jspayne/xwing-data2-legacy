@@ -292,7 +292,7 @@
               "value": 2
             }
           ],
-          "image": "https://infinitearenas.com/xw2/images/remotes/sensorbuoy.png",
+          "image": "https://raw.githubusercontent.com/SogeMoge/x-wing2.0-project-goldenrod/2.0-legacy/src/images/En/remotes/sensorbuoyblue.png",
           "text": "First Order sensor buoys are often placed to warn of enemies approaching their hidden fortresses."
         }
       }
