@@ -614,7 +614,7 @@
       }
     ],
     "cost": {
-      "value": 7
+      "value": 6
     },
     "standard": true,
     "wildspace": true,
@@ -717,7 +717,7 @@
       }
     ],
     "cost": {
-      "value": 7
+      "value": 6
     },
     "standard": true,
     "wildspace": true,
@@ -852,7 +852,7 @@
       }
     ],
     "cost": {
-      "value": 3
+      "value": 2
     },
     "restrictions": [
       {
