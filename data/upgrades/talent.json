@@ -1504,11 +1504,6 @@
       },
       {
         "non-limited": true
-      },
-      {
-        "ships": [
-          "tielnfighter"
-        ]
       }
     ],
     "standard": false,
@@ -1581,6 +1576,11 @@
       "value": 1
     },
     "restrictions": [
+      {
+        "factions": [
+          "galacticempire"
+        ]
+      },
       {
         "ships": [
           "tielnfighter"
