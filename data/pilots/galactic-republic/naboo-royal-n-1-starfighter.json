@@ -70,7 +70,7 @@
       "xws": "anakinskywalker-nabooroyaln1starfighter",
       "standard": true,
       "wildspace": true,
-      "cost": 41,
+      "cost": 40,
       "slots": [
         "Talent",
         "Sensor",
@@ -109,7 +109,7 @@
       "caption": "Bravo Leader",
       "standard": true,
       "wildspace": true,
-      "cost": 44,
+      "cost": 43,
       "slots": [
         "Talent",
         "Talent",
@@ -159,7 +159,7 @@
       },
       "standard": true,
       "wildspace": true,
-      "cost": 30,
+      "cost": 29,
       "slots": [
         "Talent",
         "Talent",
@@ -233,7 +233,7 @@
       },
       "standard": true,
       "wildspace": true,
-      "cost": 31,
+      "cost": 30,
       "slots": [
         "Talent",
         "Talent",
@@ -258,7 +258,7 @@
       "caption": "Echo Five",
       "standard": false,
       "wildspace": true,
-      "cost": 45,
+      "cost": 46,
       "slots": [
         "Talent",
         "Illicit",
@@ -283,7 +283,7 @@
       "caption": "Bravo Seven",
       "standard": false,
       "wildspace": true,
-      "cost": 37,
+      "cost": 38,
       "slots": [
         "Talent",
         "Talent",
